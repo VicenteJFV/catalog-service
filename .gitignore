@@ -40,7 +40,6 @@ spring.log
 
 # ---- Configuraciones sensibles ----
 # evita subir claves o passwords
-application.properties
 application.yml
 
 # Si quieres permitir subir la config sin las credenciales
